@@ -8,13 +8,9 @@ This is a solution to the [Advice generator app challenge on Frontend Mentor](ht
   - [The challenge](#the-challenge)
   - [Screenshot](#screenshot)
   - [Links](#links)
-- [My process](#my-process)
   - [Built with](#built-with)
-  - [What I learned](#what-i-learned)
   - [Continued development](#continued-development)
-  - [Useful resources](#useful-resources)
 - [Author](#author)
-- [Acknowledgments](#acknowledgments)
 
 ## Overview
 
@@ -35,7 +31,6 @@ Users should be able to:
 - Live Site URL: [Live Site](https://advice-generator-app-by-me.netlify.app/)
 - Solution URL: [Solution link](https://www.frontendmentor.io/solutions/advice-generator-app-using-api-qVBELrp1ZV)
 
-## My process
 
 ### Built with
 
